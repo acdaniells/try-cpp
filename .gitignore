@@ -1,5 +1,7 @@
+# Prerequisites
+*.d
+
 # Compiled Object files
-**/.DS_Store
 *.slo
 *.lo
 *.o
@@ -29,6 +31,7 @@
 *.out
 *.app
 
+# CMake
 **/cmake-build-debug
 **/CMakeCache.txt
 **/cmake_install.cmake
@@ -40,15 +43,8 @@
 **/CMakeScripts
 **/compile_commands.json
 
-include/divisible/*
-
-
-## Local 
-
-.idea/*.xml
-
+# Local
 build/**/*
-
 include/*
 lib/*
 bin/*
