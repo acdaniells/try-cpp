@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/acdaniells/try-cpp.svg?branch=master)](https://travis-ci.org/acdaniells/try-cpp)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/acdaniells/try-cpp/blob/master/LICENSE)
 
 # Try C++
 
